@@ -1,0 +1,16 @@
+<html>
+<head>
+<link rel="stylesheet"href="styles.css">
+<title> caballos!</title>
+</head>
+<body>
+<h1> Los caballos son unicos </h1>
+<p id="special">El caballo (Equus ferus caballus) es un mamífero perisodáctilo domesticado de la familia de los équidos. 
+Es un herbívoro solípedo de gran porte, cuello largo y arqueado, poblado por largas crines.</p>
+
+<p>A la hembra del caballo se le llama yegua y a las crías si son machos potros o potrillos,
+ y si son hembras potras o potrancas. La cría y utilización del caballo por parte del hombre se conoce como ganadería equina o caballar,
+ y su domesticación se remonta a unos 3600 a. C., en la región de Kazajistán.</p>
+<img src"caballos.jpg">
+</body>
+</html>
